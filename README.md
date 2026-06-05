@@ -23,3 +23,9 @@ I care about building systems that are simple, observable, testable, and easy to
 ### Cloud ![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ### IaC ![Terraform](https://img.shields.io/badge/terraform-%237B42BC.svg?style=flat-square&logo=terraform&logoColor=white) ![AWS CDK](https://img.shields.io/badge/aws%20cdk-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white)
+
+## Certifications
+
+![基本情報技術者試験](https://img.shields.io/badge/%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93-4B5563?style=flat-square&logo=bookstack&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS%20SAA-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS SAP](https://img.shields.io/badge/AWS%20SAP-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
