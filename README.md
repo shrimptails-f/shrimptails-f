@@ -29,7 +29,7 @@ I care about building systems that are simple, observable, testable, and easy to
 <p align="center">
   <a href="https://github.com/shrimptails-f">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shrimptails-f&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shrimptails-f&layout=compact&langs_count=8&theme=algolia"/>
+    <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shrimptails-f&layout=compact&langs_count=8&theme=algolia"/> -->
   </a>
 </p>
 
